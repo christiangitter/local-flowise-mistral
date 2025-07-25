@@ -85,3 +85,14 @@ After a click on "Save Assistant" you can test the success of your configuration
 ---
 
 ## Creating an Agent flow using your local LLM
+
+Now you can get started and build a number of agent flows that will make your life easier. I built a research flow that lets two agents discuss things iteratively to achieve the best possible result.
+You can import the `research_agents.json` play around with it.
+Just click on "Settings" -> "Import" to import the flow.
+
+---
+
+## Start the flow
+
+Click on "Chat" to write down your prompt:
+![Chat](/img/flowise_3.png)
