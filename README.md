@@ -50,7 +50,7 @@ You should see these container up and running:
 With the following command you can download a LLM and host it with Ollama:
 
 **Docker:**<br>
-`podman  exec -it ollama ollama pull mistral`<br><br>
+`docker  exec -it ollama ollama pull mistral`<br><br>
 **Podman**<br>
 `podman  exec -it ollama ollama pull mistral`
 
